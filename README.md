@@ -10,7 +10,7 @@ Access the dataset used for this analysis from the following link: [Kaggle Road 
 Watch the project demonstration video here: [Demonstration Video Link](https://drive.google.com/file/d/1tYpLEJlBIvWfWi-gStXbo1cuhAGpAQxs/view?usp=sharing)
 
 ## Project Documentation
-Read the full project documentation here: [Project Documentation Link](https://drive.google.com/file/d/1nZZ4yskIs_csVwnp0drd8w2JkfJFhYNZ/view?usp=sharing) 
+Read the full project documentation here: [Project Documentation Link](https://drive.google.com/file/d/1u7gUnIi6VzzZMewsbjnUNt_9tFILKczL/view?usp=drive_link) 
 
 ## Overview
 This project leverages Qlik Sense to analyze various aspects of road accidents in India. The goal is to derive actionable insights that can inform strategies to improve road safety and reduce accidents. The project involves the following key steps:
