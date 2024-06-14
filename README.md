@@ -6,14 +6,14 @@ This project aims to analyze road safety in India using Qlik's data analytics pl
 ## Dataset
 Access the dataset used for this analysis from the following link: [Kaggle Road Accidents in India Dataset](https://www.kaggle.com/datasets/aryakittukrishnasai/road-accidents-in-india)
 
-## Dashboard on Road Safet And Accident Patterns in India
-Watch the project demonstration video here: [Dashboard on Road Safet And Accident Patterns in India](https://drive.google.com/file/d/1CiSG3V0KbgbndYEq8pCvtOJ-WSIR8NyO/view?usp=drive_link)
+## Dashboard on Road Safety And Accident Patterns in India
+Watch the project demonstration video here: [Dashboard on Road Safety And Accident Patterns in India](https://drive.google.com/file/d/1CiSG3V0KbgbndYEq8pCvtOJ-WSIR8NyO/view?usp=drive_link)
 
-## Visualisation on Road Safet And Accident Patterns in India
-Watch the project demonstration video here: [Dashboard on Road Safet And Accident Patterns in India](https://drive.google.com/file/d/1JIuSbtDrMm0DDEP-XZnECx5HCeWPciBt/view?usp=drive_link)
+## Visualisation on Road Safety And Accident Patterns in India
+Watch the project demonstration video here: [Visualisation on Road Safety And Accident Patterns in India](https://drive.google.com/file/d/1JIuSbtDrMm0DDEP-XZnECx5HCeWPciBt/view?usp=drive_link)
 
-## Storytelling on Road Safet And Accident Patterns in India
-Watch the project demonstration video here: [Storytelling on Road Safet And Accident Patterns in India](https://drive.google.com/file/d/1wA_hy0TD4Ap-QqPxO18UihozhzhjDJe-/view?usp=drive_link)
+## Storytelling on Road Safety And Accident Patterns in India
+Watch the project demonstration video here: [Storytelling on Road Safety And Accident Patterns in India](https://drive.google.com/file/d/1wA_hy0TD4Ap-QqPxO18UihozhzhjDJe-/view?usp=drive_link)
 
 ## Demonstration Video
 Watch the project demonstration video here: [Demonstration Video Link](https://drive.google.com/file/d/1tYpLEJlBIvWfWi-gStXbo1cuhAGpAQxs/view?usp=sharing)
